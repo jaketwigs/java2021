@@ -18,7 +18,7 @@ public class MatrixTester {
         
         // print the row sums stored in my rowSum array
         for (int i = 0; i < rowSum.length; i++) {
-            System.out.println("The sum of row " + i + "is: " + rowSum[i]);
+            System.out.println("The sum of row " + i + " is: " + rowSum[i]);
         }
     }
 }
