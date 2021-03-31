@@ -5,7 +5,7 @@ public class Matrix {
  
     }
     
-    // TODO: return the to sum of all rows
+    // TODO: return the sum of all the rows in md
     public int sumAllRows(int[][] md) {
       return -1;
     }
