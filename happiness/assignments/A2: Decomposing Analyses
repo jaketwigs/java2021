@@ -1,0 +1,18 @@
+Hi Class, we need to clearly define and document which analyses we are going to build and present. The file HappinessAnalysisIdeas.txt has your submitted suggestions -- choose from these.
+
+Fun fact: In computer science, breaking down a problem into smaller, easier to solve problems is called decomposition :)
+
+For this project, you are the directors and your work will be submitted to the Board of Education for peer review and it will showcase your skills in computer programming and your abilities to process real world datasets.
+
+For each analysis we choose we will need a document that contains:
+     1. A short title for summary purposes
+     2. A well written and detailed description of what exactly we are going to show/report. 
+     3. A list of the data columns that we need to process in order to report our findings and what data file we will using.
+     4. Describe the data structures you will be using. For example: Classes, Arrays, Multi-Dimensional Arrays, etc...
+     5. The mathematical formulas that will be needed and the algorithms to use to create the analysis (words only, no code)
+     6. Create a mock up report of what our analysis will look like. This will be the programs output and for now you can make up sample data for this output.
+For #5 above, describe what you may need, for example, counters, sums, totals, diffs, etc. and also describe what type of looping will need to be done.
+
+You will work in groups and build the document(s) today in class. Template files are attached for convenience only -- use if you like. You need to choose to work as a class or in small groups. 
+
+Your final product for this will put on our repo on github.
