@@ -1,0 +1,24 @@
+Choose from the analyses below, as a class, and we will develop the ones that you select (it could be all if that is what you decide).
+
+Format for the below is, Idea Number, Author, Description
+
+NOT IN ANY PARTICULAR ORDER
+
+1. CAM: The thing I want to look at more is the connection between the perception of corruption and the level of happiness. The reason for this is I want to see is if the people who are unhappy are being truthful about how they feel about their government and whether or not they are worried they should speak positively about their government or there will be consequences.
+
+2. IVY: Rank the countries from happiest to least happy in each category 
+
+3. IVY: Come up with a way to calculate the happiest country
+
+4. Simon: We should find which country and year has the lowest mean number of all rows and which country has the highest.
+
+5. Kade: We could analyze the data to find what countries are the happiest and which are the least happy.
+
+6. Nate: The happiest country and the least happy country could be computed based on the data. 
+
+7. Nate: I would also be interested to calculate the average values for each column. 
+
+9. Chris:
+
+10. Jake: 
+
