@@ -1,0 +1,16 @@
+Kaggle
+
+Hi Class, we are going to do a large, real-world, data processing project. Please create an Kaggle account  (use your school or personal email whichever you prefer).
+
+Explore some of the data on Kaggle and see if you have any interest in any particular data set. If you do, let me know and we could use that data set for processing and analysis. 
+
+Before we pick a different data set, I have picked data that I think would be fun to analyze, called the World Happiness Report 2021 -- see Kaggle link below and the Happiness and Life Satisfactions link.
+
+Next, I would like you to analyze (read/think about) the data in the file named: word-happiness-report.csv, which can be found in my repo and define what types of data are in the file and what each column represents. Document this and turn in. Use the link for  the Happiness and Life Satisfactions to help define what the columns are for.
+
+Lastly, please add into your document some type of analysis you think you might want to compute in regard to this data.
+
+References:
+https://www.kaggle.com/
+https://www.kaggle.com/ajaypalsinghlo/world-happiness-report-2021
+https://ourworldindata.org/happiness-and-life-satisfaction
